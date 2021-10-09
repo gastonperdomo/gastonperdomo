@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gastonperdomo
 - 👀 I’m interested in ... sports, coding, and everything that has to do with computers!
-- 🌱 I’m currently learning ... python and react
+- 🌱 I’m currently learning ... react through Udemy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
